@@ -1,3 +1,3 @@
 # hello-world
 My first repository
-# my first change
+Learning GIT in order to learn Python for home projects.
